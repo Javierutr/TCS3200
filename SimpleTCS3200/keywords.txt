@@ -1,0 +1,2 @@
+SimpleTCS3200	KEYWORD1
+readColour	KEYWORD2
