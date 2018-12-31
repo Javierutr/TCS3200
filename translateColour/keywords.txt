@@ -1,2 +1,0 @@
-translateColour	KEYWORD1
-whatColour	KEYWORD2
