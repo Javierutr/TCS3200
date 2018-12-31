@@ -1,2 +1,5 @@
 SimpleTCS3200	KEYWORD1
+translateColour KEYWORD1
 readColour	KEYWORD2
+whatColour	KEYWORD2
+calibrar	KEYWORD2
